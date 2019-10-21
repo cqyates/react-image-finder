@@ -1,10 +1,10 @@
-## Image Finder
+## [Image Finder](https://cqyates.github.io/react-image-finder/)
 
 This is charming react application that searches the unsplash api for images and then displays them in an attractive grid layout
 
 ![red roses](/assets/images/screenshot1.png)
 
-## [Try it Out](https://cqyates.github.io/react-image-finder/)
+____________________________________________________________________________________________________________________________
 
 ![black and white](/assets/images/screenshot3.png)
 
