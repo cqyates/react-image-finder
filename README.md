@@ -4,9 +4,8 @@ This is charming react application that searches the unsplash api for images and
 
 ![red roses](/assets/images/screenshot1.png)
 
-## Visit Here
+## [Visit Here] (https://cqyates.github.io/react-image-finder/)
 
-https://cqyates.github.io/react-image-finder/
 ![black and white](/assets/images/screenshot3.png)
 
 ## One Cool Thing...
