@@ -5,7 +5,7 @@ This is charming react application that searches the unsplash api for images and
 ![red roses](/assets/images/screenshot1.png)
 
 ## One Cool Thing...
-about this application, it reaches into the DOM to get the height of the images, so the grid span can be fitted accordingly
+this application reaches into the DOM to get the height of the images, so the grid span can be fitted accordingly
 
 ![green gardens](/assets/images/screenshot2.png)
 
