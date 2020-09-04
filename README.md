@@ -6,7 +6,7 @@ This is charming react application that searches the unsplash api for images and
 
 ____________________________________________________________________________________________________________________________
 
-![black and white](/assets/images/screenshot 3.png)
+![black and white](/assets/images/screenshot3.png)
 
 ## One Cool Thing...
 this application reaches into the DOM to get the height of the images, so the grid span can be fitted accordingly
