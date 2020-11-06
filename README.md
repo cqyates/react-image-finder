@@ -1,5 +1,8 @@
 ## [Image Finder](https://cqyates.github.io/react-image-finder/)
 
+## Table of Contents
+ * [One Cool Thing](## One Cool Thing...)
+
 This is charming react application that searches the unsplash api for images and then displays them in an attractive grid layout
 
 ![red roses](/assets/images/screenshot1.png)
